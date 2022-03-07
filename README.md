@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chaewon%20Yoon&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chaewon%20Yoon&fontSize=60)
 
 <h3 align="center">🎵 Me </h3>
 <p align="center">
