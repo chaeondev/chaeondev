@@ -9,9 +9,7 @@
   <img src="https://img.shields.io/badge/HuggingFace-E6B91E?style=flat-square&logo=huggingface&logoColor=white"/></a>&nbsp
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Mysql-E4B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mongodb-092E20?style=flat-square&logo=Mongodb&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mariadb-1239EA?style=flat-square&logo=Mariadb&logoColor=white"/></a>&nbsp 
+
 </p>
 
 <!--
