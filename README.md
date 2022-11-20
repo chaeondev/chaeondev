@@ -2,13 +2,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chaewon%20Yoon&fontSize=60)
 
 <h3 align="center"> 🔍 About Me </h3>
-<p align="center">
-  📜 &thinsp;I majored in <b>Applied Statistics</b> and <b>Psychology</b> at Chung-Ang University. </br>
-  📚 I'm currently learning Machine Learning, Deep Learning(especially <b>NLP</b>).&thinsp;</br>
-  🔑 I'm a <b>curious</b> person with specific thoughts and goals. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&hairsp;&hairsp;&hairsp; </br>
-  💡 I study hard day and night to be an <b>active and enthusiastic</b> developer. &thinsp; </br>
-  
-</p>
+<!--p align="center">
+  📜 &thinsp;I majored in <b>Applied Statistics</b> and <b>Psychology</b> at Chung-Ang University. </br></br>
+  📚 I'm currently learning Machine Learning, Deep Learning(especially <b>NLP</b>).&thinsp;</br></br>
+  🔑 I'm a <b>curious</b> person with specific thoughts and goals. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&hairsp;&hairsp;&hairsp; </br></br>
+  💡 I study hard day and night to be an <b>active and enthusiastic</b> developer. &thinsp; </br></br>
+
+</p-->
+
+<h6 align="center"> 📜 I majored in <b>Applied Statistics</b> and <b>Psychology</b> at Chung-Ang University.&thinsp; </h6>
+<h6 align="center"> 📚 I'm currently learning Machine Learning, Deep Learning(especially <b>NLP</b>). </h6>
+<h6 align="center"> 🔑 I'm a <b>curious</b> person with specific thoughts and goals. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; </h6>
+<h6 align="center"> 💡 I study hard day and night to be an <b>active and enthusiastic</b> developer. &ensp; </h6>
+
+
 <h3 align="center">📞 Contact</h3>
 <p align="center">
   <a href="mailto:ycw0363@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=eunjinhh131@gmail.com"/></a>
