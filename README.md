@@ -3,10 +3,10 @@
 
 <h3 align="center"> 🔍 About Me </h3>
 <p align="center">
-  📜 &thinsp;I majored in <b>Applied Statistics</b> and <b>Psychology</b> at Chung-Ang University. </br></br>
+  📜 I majored in <b>Applied Statistics</b> and <b>Psychology</b> at Chung-Ang University. </br></br>
   📚 I'm currently learning Machine Learning, Deep Learning(especially <b>NLP</b>).&thinsp;</br></br>
-  🔑 I'm a <b>curious</b> person with specific thoughts and goals. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&hairsp;&hairsp;&hairsp; </br></br>
-  💡 I study hard day and night to be an <b>active and enthusiastic</b> developer. &thinsp; </br>
+  💡 &hairsp;I'm a <b>curious</b> person with specific thoughts and goals. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&hairsp;&hairsp;&thinsp;&hairsp; </br></br>
+  🔑 I study hard day and night to be an <b>active and enthusiastic</b> developer. &thinsp;&hairsp;&hairsp;&hairsp; </br>
 
 </p>
 
