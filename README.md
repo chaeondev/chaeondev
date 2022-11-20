@@ -49,9 +49,9 @@
 
 <p>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=chaeondev&show_icons=true&theme=transparent" />
+   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=chaeondev&show_icons=true&theme=transparent" />
    </a>
-   <img height="180px" src="http://mazandi.herokuapp.com/api?handle=dbschae1&theme=cold"/>
+   <img height="170px" src="http://mazandi.herokuapp.com/api?handle=dbschae1&theme=cold"/>
 </p>
 
 
