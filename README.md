@@ -35,10 +35,10 @@
 </p>
 <h3 align="center">📖 Experiences</h3>
 <p align="center">
-  <li align ="center">&thinsp;2022 KOSTAT Statistical Data AI Competition, 7th place (2022.03 ~ 2022.04)&thinsp;</li>
-  <li align ="center">&thinsp;2021 SKKU AI Bookathon, 1st place (2021.11)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&hairsp;&hairsp;&hairsp;</li>
-  <li align ="center">&thinsp;Naver Boostcamp AI Tech 2nd, Trainee (2021.08 ~ 2021.12)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&hairsp;&thinsp;</li>
-  <li align ="center">&thinsp;Chungang University, Applied Statistics, Psychology(2018.03 ~ )&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;</li>
+  <li align ="center">2022 KOSTAT Statistical Data AI Competition, 7th place (2022.03 ~ 2022.04)</li>
+  <li align ="center">2021 SKKU AI Bookathon, 1st place (2021.11)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&hairsp;&hairsp;</li>
+  <li align ="center">Naver Boostcamp AI Tech 2nd, Trainee (2021.08 ~ 2021.12)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&hairsp;</li>
+  <li align ="center">Chungang University, Applied Statistics, Psychology(2018.03 ~ )&emsp;&emsp;&emsp;&emsp;&emsp;</li>
 </p>
 
 <h2 align="left"> Status </h2>
