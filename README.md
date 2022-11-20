@@ -36,6 +36,10 @@
 
 <h2 align="left"> Status </h2>
 
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dbschae1)](https://solved.ac/dbschae1)
+
 <p>
    <a href="https://github.com/anuraghazra/github-readme-stats">
    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ycw0363&show_icons=true&theme=transparent" />
