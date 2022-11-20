@@ -34,7 +34,8 @@
   <li align ="center">Chungang University, Applied Statistics, Psychology(2018.03 ~ )&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;</li>
 </p>
 
-</p>
+<h3 align="center"> Status </h3>
+<hr width="70%" align="center" noshade>
 
 <!--
 **ycw0363/ycw0363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
