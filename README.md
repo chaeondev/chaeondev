@@ -3,10 +3,10 @@
 
 <h3 align="center"> 🔍 About Me </h3>
 <p align="center">
-  📜 I majored in <b>Applied Statistics</b> and <b>Psychology</b> at Chung-Ang University.</br></br>
-  📚 I'm currently learning Machine Learning, Deep Learning(especially <b>NLP</b>).</br></br>
-  💡 I'm a <b>curious</b> person with specific thoughts and goals.</br></br>
-  🔑 I study hard day and night to be an <b>active and enthusiastic</b> developer. </br>
+  &nbsp;📜 I majored in <b>Applied Statistics</b> and <b>Psychology</b> at Chung-Ang University. </br></br>
+  &nbsp;📚 I'm currently learning Machine Learning, Deep Learning(especially <b>NLP</b>).&thinsp;</br></br>
+  &nbsp;💡 &hairsp;I'm a <b>curious</b> person with specific thoughts and goals. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&hairsp;&hairsp;&thinsp;&hairsp; </br></br>
+  &nbsp;🔑 I study hard day and night to be an <b>active and enthusiastic</b> developer. &thinsp;&hairsp;&hairsp;&hairsp; </br>
 
 </p>
 
@@ -36,9 +36,9 @@
 <h3 align="center">📖 Experiences</h3>
 <p align="center">
   <li align ="center">2022 KOSTAT Statistical Data AI Competition, 7th place (2022.03 ~ 2022.04)</li>
-  <li align ="center">2021 SKKU AI Bookathon, 1st place (2021.11)</li>
-  <li align ="center">Naver Boostcamp AI Tech 2nd, Trainee (2021.08 ~ 2021.12)</li>
-  <li align ="center">Chungang University, Applied Statistics, Psychology (2018.03 ~ )</li>
+  <li align ="center">2021 SKKU AI Bookathon, 1st place (2021.11)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&hairsp;&hairsp;</li>
+  <li align ="center">Naver Boostcamp AI Tech 2nd, Trainee (2021.08 ~ 2021.12)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&#8198;</li>
+  <li align ="center">Chungang University, Applied Statistics, Psychology (2018.03 ~ )&emsp;&emsp;&emsp;&emsp;&numsp;&puncsp;</li>
 </p>
 
 <h2 align="left"> Status </h2>
