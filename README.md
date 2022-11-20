@@ -36,8 +36,8 @@
 <h3 align="center">📖 Experiences</h3>
 <p align="center">
   <li align ="center">KOSTAT, 2022 Statistical Data AI Competition, 7th place (2022.03 ~ 2022.04)&thinsp;</li>
-  <li align ="center">Naver Boostcamp AI Tech 2nd, Trainee (2021.08 ~ 2021.12)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&thinsp;</li>
   <li align ="center">2021 SKKU AI Bookathon, 1st place (2021.11)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&thinsp;</li>
+  <li align ="center">Naver Boostcamp AI Tech 2nd, Trainee (2021.08 ~ 2021.12)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&thinsp;</li>
   <li align ="center">Chungang University, Applied Statistics, Psychology(2018.03 ~ )&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;</li>
 </p>
 
