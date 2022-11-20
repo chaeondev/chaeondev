@@ -47,7 +47,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dbschae1)](https://solved.ac/dbschae1)
 
-<p>
+<p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=chaeondev&show_icons=true&theme=transparent" />
    </a>
