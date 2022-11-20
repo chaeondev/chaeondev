@@ -34,8 +34,11 @@
   <li align ="center">Chungang University, Applied Statistics, Psychology(2018.03 ~ )&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;</li>
 </p>
 
-<h3 align="center"> Status </h3>
-<hr width="70%" align="center" noshade>
+<h2 align="left"> Status </h2>
+
+![Chaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycw0363&show_icons=true&theme=transparent) &nbsp 
+
+
 
 <!--
 **ycw0363/ycw0363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
