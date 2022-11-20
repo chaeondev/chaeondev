@@ -36,8 +36,8 @@
 
 <h2 align="left"> Status </h2>
 
-![Chaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycw0363&show_icons=true&theme=transparent) &nbsp 
-
+![Chaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycw0363&show_icons=true&theme=transparent)</br>
+<img src="http://mazandi.herokuapp.com/api?handle=dbschae1&theme=warm"/>
 
 
 <!--
