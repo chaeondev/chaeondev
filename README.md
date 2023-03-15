@@ -6,7 +6,6 @@
   📜 I majored in <b>Applied Statistics</b> and <b>Psychology</b> at Chung-Ang University. </br>
   📚 I'm currently learning Machine Learning, Deep Learning(especially <b>NLP</b>). </br>
   💡 &hairsp;I'm a <b>curious</b> person with specific thoughts and goals. </br>
-  🔑 I study hard day and night to be an <b>active and enthusiastic</b> developer. </br>
 
 </p>
 
