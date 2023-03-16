@@ -3,9 +3,9 @@
 
 <h2 align="left"> 🔍 About Me </h2>
 <p >
-  📜 I majored in <b>Applied Statistics</b> and <b>Psychology</b> at Chung-Ang University. </br>
-  📚 I'm currently learning Machine Learning, Deep Learning(especially <b>NLP</b>). </br>
-  💡 &hairsp;I'm a <b>curious</b> person with specific thoughts and goals. </br>
+  <h6 align="left"> 📜 I majored in <b>Applied Statistics</b> and <b>Psychology</b> at Chung-Ang University. </h6> 
+  <h6 align="left"> 📚 I'm currently learning Machine Learning, Deep Learning(especially <b>NLP</b>). </h6> 
+  <h6 align="left"> 💡 &hairsp;I'm a <b>curious</b> person with specific thoughts and goals. </h6> 
 
 </p>
 
