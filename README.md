@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
 
 </p>
+</br>
+
 <h2 align="left">📖 Experiences</h2>
 <p align="center">
   <li align ="left">2022 KOSTAT Statistical Data AI Competition, 7th place (2022.03 ~ 2022.04)</li>
@@ -39,8 +41,9 @@
   <li align ="left">Naver Boostcamp AI Tech 2nd, Trainee (2021.08 ~ 2021.12)</li>
   <li align ="left">Chungang University, Applied Statistics, Psychology (2018.03 ~ )</li>
 </p>
+</br>
 
-<h2 align="left"> Status </h2>
+<h2 align="left">📍 Status </h2>
 
 
 [![Solved.ac
