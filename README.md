@@ -50,8 +50,15 @@
    <a href="https://github.com/anuraghazra/github-readme-stats">
    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=chaeondev&show_icons=true&theme=transparent" />
    </a>
-   <img height="180px" src="http://mazandi.herokuapp.com/api?handle=dbschae1&theme=cold"/>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeondev&layout=compact&theme=transparent&hide_border=true" />
+  </a> 
 </p>
+
+
+<!-- 
+<img height="180px" src="http://mazandi.herokuapp.com/api?handle=dbschae1&theme=cold"/>
+-->
 
 
 <!--
