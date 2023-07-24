@@ -1,6 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chaewon%20Yoon&fontSize=60)
-
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chaewon%20Yoon&fontSize=60)
+-->
 <h2 align="left"> 🔍 About Me </h2>
 <p >
   <h6 align="left"> 📜 I majored in <b>Applied Statistics</b> and <b>Psychology</b> at Chung-Ang University. </h6> 
