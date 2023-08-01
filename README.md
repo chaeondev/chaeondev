@@ -3,8 +3,11 @@
 -->
 <h2 align="left"> 🔍 About Me </h2>
 <p >
+  <h6 align="left">  I'm currently focused on honing my skills in iOS development, as I pursue my goal of becoming an accomplished iOS developer. </h6>
+  <h6 align="left"> 📚 I have previously studied and can utilize Machine Learning and Deep Learning(especially <b>NLP</b>). </h6> 
   <h6 align="left"> 📜 I majored in <b>Applied Statistics</b> and <b>Psychology</b> at Chung-Ang University. </h6> 
-  <h6 align="left"> 📚 I'm currently learning Machine Learning, Deep Learning(especially <b>NLP</b>). </h6> 
+  
+  
 <!--   <h6 align="left"> 💡 &hairsp;I'm a <b>curious</b> person with specific thoughts and goals. </h6> 
  -->
 </p>
