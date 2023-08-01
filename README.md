@@ -51,10 +51,10 @@
 
 <p >
    <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img height="180px" src="https://github-readme-stats-chaeondev.vercel.app/api?username=chaeondev&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&theme=swift" />
+   <img height="180px" src="https://github-readme-stats-chaeondev.vercel.app/api?username=chaeondev&show_icons=true&count_private=true&hide_border=true&theme=swift" />
    </a>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img height="180px" src="https://github-readme-stats-chaeondev.vercel.app/api/top-langs/?username=chaeondev&exclude_repo=image-classification-level1-11,mrc-level2-nlp-01,data-annotation-nlp-level3-nlp-01,klue-level2-nlp-01&hide_border=true&bg_color=00000000&theme=swift&layout=compact" />
+   <img height="180px" src="https://github-readme-stats-chaeondev.vercel.app/api/top-langs/?username=chaeondev&exclude_repo=image-classification-level1-11,mrc-level2-nlp-01,data-annotation-nlp-level3-nlp-01,klue-level2-nlp-01&hide_border=true&theme=swift&layout=compact" />
   </a> 
 </p>
 
