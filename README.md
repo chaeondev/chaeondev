@@ -54,7 +54,7 @@
    <img height="180px" src="https://github-readme-stats-chaeondev.vercel.app/api?username=chaeondev&bg_color=000000&show_icons=true&count_private=true&hide_border=true&theme=dark" />
    </a>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img height="180px" src="https://github-readme-stats-chaeondev.vercel.app/api/top-langs/?username=chaeondev&bg_color=000000&exclude_repo=image-classification-level1-11,mrc-level2-nlp-01,data-annotation-nlp-level3-nlp-01,klue-level2-nlp-01&hide_border=true&theme=dark&layout=compact" />
+   <img height="180px" src="https://github-readme-stats-chaeondev.vercel.app/api/top-langs/?username=chaeondev&bg_color=000000&hide_border=true&theme=dark&layout=compact" />
   </a> 
 </p>
 
