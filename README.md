@@ -39,6 +39,7 @@
 
 <h2 align="left">📖 Experiences</h2>
 <p align="center">
+  <li align ="left">SeSAC iOS App Developer Course 3rd, Trainee (2023.07 ~ )</li>
   <li align ="left">2022 KOSTAT Statistical Data AI Competition, 7th place (2022.03 ~ 2022.04)</li>
   <li align ="left">2021 SKKU AI Bookathon, 1st place (2021.11)</li>
   <li align ="left">Naver Boostcamp AI Tech 2nd, Trainee (2021.08 ~ 2021.12)</li>
