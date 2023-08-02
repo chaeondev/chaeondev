@@ -50,9 +50,10 @@
 
 <h2 align="left">📍 Status </h2>
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaeondev&count_bg=%2300CEA0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dbschae1)](https://solved.ac/dbschae1)
+<!--[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dbschae1)](https://solved.ac/dbschae1) -->
 
 <p >
    <a href="https://github.com/anuraghazra/github-readme-stats">
